@@ -1,0 +1,36 @@
+{
+  "escolas": [
+    {
+      "id": "abcd",
+      "nome": "Escola 1",
+      "endereco": "Rua 1",
+      "telefone": "1234-5678"
+    },
+    {
+      "id": "efgh",
+      "nome": "Escola 2",
+      "endereco": "Rua 2",
+      "telefone": "1234-5679"
+    }
+  ],
+  "alunos": [
+    {
+      "id": "1234",
+      "nome": "Aluno 1",
+      "idade": 10,
+      "escola_id": "abcd"
+    },
+    {
+      "id": "5678",
+      "nome": "Aluno 2",
+      "idade": 11,
+      "escola_id": "abcd"
+    },
+    {
+      "id": "9012",
+      "nome": "Aluno 3",
+      "idade": 12,
+      "escola_id": "efgh"
+    }
+  ]
+}
