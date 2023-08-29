@@ -1,8 +1,34 @@
-# React + Vite
+# Projeto Escolas do Amanhã
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema de cadastro de escolas e alunos
 
-Currently, two official plugins are available:
+## Será desenvolvido em qual linguagem?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+JavaScript
+
+## Utilizará um framework/biblioteca?
+
+React
+
+## Utilizará uma ferramenta para criação do projeto?
+
+Vite
+
+## Qual será a estrutura de organização?
+
+Utilizar pastas components e pages para organizar os arquivos
+
+## Há backend para integração? Caso não haja, como lidar com a simulação das requisições de API?
+
+JSON Server
+
+## Utilizará alguma biblioteca para consumir os dados da API?
+
+Fetch
+
+## Será necessário lidar com rotas? Se sim, utilizará alguma biblioteca?
+
+React router DOM
+
+## Utilizará alguma biblioteca que auxilia na construção da interface de usuário (UI)?
+(a definir)
