@@ -8,6 +8,8 @@ export default function App() {
      <Routes>
        <Route path="/" element={<Inicio />} />
        <Route path="/cadastro-escola" element={<CadastroDeEscola />} />
+       <Route path="/cadastro-escola2" element={<CadastroDeEscola />} />
+       <Route path="/cadastro-escola2" element={<CadastroDeEscola />} />
 
        <Route path="*" element={<div>Página não encontrada</div>} /> 
      </Routes>
