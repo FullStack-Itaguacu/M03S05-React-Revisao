@@ -47,6 +47,12 @@ h1 {
   margin-bottom: 0.1em;
 }
 
+main {
+  max-width: 90vw;
+  margin: 0 auto;
+  padding: 0;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
